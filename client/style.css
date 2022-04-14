@@ -1,0 +1,39 @@
+/* .errContainer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.errMess {
+    margin-right: 25px;
+    margin-bottom: 25px;
+    width: 250px;
+    min-height: 100px;
+    background: #000;
+    color: #fff;
+    font-size: 12px;
+}
+
+.errContainer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+} */
+
+.errContainer {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.mess {
+    margin-right: 25px;
+    margin-bottom: 25px;
+    width: 250px;
+    min-height: 100px;
+    background: #000;
+    color: #fff;
+    font-size: 12px;
+    padding: 15px;
+    border-radius: 10px;
+}
